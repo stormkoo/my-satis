@@ -1,1 +1,10 @@
-{}
+{
+    "name": "jiangmin/core",
+    "authors": [
+        {
+            "name": "hux",
+            "email": "stormkoo@hotmail.com"
+        }
+    ],
+    "require": {}
+}
